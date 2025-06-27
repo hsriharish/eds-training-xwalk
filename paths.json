@@ -2,7 +2,8 @@
   "mappings": [
     "/content/eds-training-xwalk/:/",
     "/content/eds-training-xwalk/configuration:/.helix/config.json",
-    "/content/eds-training-xwalk/metadata:/metadata.json"
+    "/content/eds-training-xwalk/metadata:/metadata.json",
+    "/content/eds-training-xwalk/metadata:/redirects.json"
   ],
   "includes": [
     "/content/eds-training-xwalk/"
